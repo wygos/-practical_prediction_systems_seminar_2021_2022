@@ -5,3 +5,4 @@ This repository summarises the practical prediction systems seminar for Master S
 The results:
 
 - Mikołaj P. Detecting adversarial attacks with GANs [https://github.com/mikipacman/adversarial_attacks_and_gans](https://github.com/mikipacman/adversarial_attacks_and_gans)
+- Andrzej Zapala [Quantum Chemistry, predicting quantum properties and energy of molecules](https://github.com/a-zapala/quantum_chemistry)
